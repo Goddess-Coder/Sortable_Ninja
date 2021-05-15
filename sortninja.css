@@ -1,0 +1,22 @@
+body{
+    width: fit-content;
+    margin: 6rem 22rem;
+}
+.container{
+    background-color: black;
+    margin-top:1rem;
+    height: 48rem;
+}
+h1{
+    margin: 1rem 20rem;
+    color: gold;
+}
+
+#sortList{
+    margin-left: 19rem;
+    list-style: none;
+    position: absolute;
+}
+img{
+    width:23.2rem;
+}
